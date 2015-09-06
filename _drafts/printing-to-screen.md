@@ -261,3 +261,5 @@ pub fn clear_screen() {
 
 ## What's next?
 Soon we will tackle virtual memory management and map the kernel sections correctly. This will cause many strange bugs and boot loops. To understand what's going on a real debugger is indispensable. In the [next post] we will setup [GDB] to work with QEMU.
+
+[next post]: {{ site.url }}{{ page.next.url }}

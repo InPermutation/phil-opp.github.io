@@ -364,4 +364,4 @@ Let's break it down:
 ## What's next?
 Right now we write magic bits to memory every time we want to print something. It's time to end the hackery. In the [next post] we create a VGA buffer module that allows us to print strings in different colors.
 
-[next post]: #TODO {{ site.url }}{{ page.next.url }}
+[next post]: {{ site.url }}{{ page.next.url }}
